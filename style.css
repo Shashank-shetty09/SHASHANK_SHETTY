@@ -1,0 +1,54 @@
+body {
+
+font-family: Arial, sans-serif;
+
+text-align: center;
+min-height:100vh;
+background: url(
+background-repeat:no-repeat;
+background-position:center;
+margin:0;
+background-size:contain;
+padding-top: 50px;
+
+}
+
+h1{
+
+color: #ff0000;
+
+}
+span{
+color:#ff0000;
+}
+p{
+color:#ff0000;
+}
+
+#message{
+
+margin: 20px;
+
+font-size: 18px;
+
+}
+
+button{
+
+padding: 10px 20px;
+
+font-size: 16px;
+
+background-color: #007bff;
+
+SSD
+
+color: white;
+
+border:none;
+
+border-radius:4px;
+
+cursor: pointer;
+
+}
