@@ -4,7 +4,7 @@ font-family: Arial, sans-serif;
 
 text-align: center;
 min-height:100vh;
-background: url("SHASHANK SHETTY.jpg");
+background-color:#ff0080
 background-repeat:no-repeat;
 background-position:center;
 margin:0;
@@ -53,6 +53,7 @@ cursor: pointer;
 
 
 }
+
 
 
 
